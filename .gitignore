@@ -3,5 +3,5 @@ venv/
 __pycache__/
 .streamlit/
 *.pyc
-venv.env
+.env
 .env.local
